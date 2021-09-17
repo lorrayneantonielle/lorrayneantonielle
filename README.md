@@ -2,7 +2,8 @@
 ### My name is Lorrayne Antonielle, I'm from Brazil and I'm a T.I. studenty!  😄
 
 - My Pronouns are her, hers.
-- I’m currently learning **Python**, **JavaScript**, **CSS** and **HTML**. 
+- I'm a web developer at Universal Software.
+- I’m currently learning **C#** **Python**, **JavaScript**, **CSS** and **HTML**. 
 - I'm looking to collaborate on many projects because I think it can help me in my studies.👯
 - U can reach me in adress email lsr.antonielle@gmail.com 📫
 
