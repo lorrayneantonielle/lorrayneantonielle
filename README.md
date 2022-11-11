@@ -3,6 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas**.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora .Net** na DTI Digital.
+- 💼 &nbsp; Contribuindo ativamente para a **Lua Colaborativa**.
 - 🌱 &nbsp; Aprendendo mais sobre **.Net e VueJs**.
 
 <h4> :rocket: &nbsp;Minhas Skills </h4>
